@@ -12,6 +12,7 @@ Each team may wish to amend the template for their second (listing expected area
 
 - [ ] Follow the checklists on the RFC repo https://github.com/emberjs/rfcs#champion-responsibilities
 - [ ] Assign yourself to the tracking issue
+- [ ] Add labels to the tracking issue. Edition, relevant team(s) as specified in the RFC
 - [ ] Ensure each team considers & plan the RFC, adding tasks & issues to the tracking issue
 - [ ] Update the tracking issue regularly
 - [ ] Make sure the tracking issue is formatted correctly (checkboxes for each task) to gain progress bars
