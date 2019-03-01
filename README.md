@@ -16,4 +16,4 @@ Each team may wish to amend the template for their second (listing expected area
 - [ ] Ensure each team considers & plan the RFC, adding tasks & issues to the tracking issue
 - [ ] Update the tracking issue regularly
 - [ ] Make sure the tracking issue is formatted correctly (checkboxes for each task) to gain progress bars
-- [ ] Update the project board https://github.com/emberjs/rfc-tracking/issues/3 when the RFC enters a new stage
+- [ ] Update the project board https://github.com/orgs/emberjs/projects/3 when the RFC enters a new stage
