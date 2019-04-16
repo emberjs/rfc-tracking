@@ -14,15 +14,15 @@ Champion: {{@-champion-}}
 ---
 
 > All teams need to consider a merged RFC to plan any required work. Each team should comment on or edit this with links to issues for the work (or a note to the effect of "No work required"). 
-
+>
 > See [the README](https://github.com/emberjs/rfc-tracking/blob/master/README.md) for more information
 > See https://github.com/emberjs/rfc-tracking/issues/3 for an example
-
+>
 > Under each team, for each repo requiring work for the RFC under that team:
 > `### [repo name](repo url)`
-
+>
 > `- [ ] (issue or pr) description, (issue or pr) link` 
-
+>
 > Remove Repos that do not apply, conversely, there will probably be other repos that need work and should be added.
 
 ### Ember.js Team:
