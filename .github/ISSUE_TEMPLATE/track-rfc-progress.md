@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## [RFC #0000](https://github.com/emberjs/rfcs/pull/0000) - Tracking for {{RFC Description}} 
+## [RFC #0000](https://github.com/emberjs/rfcs/blob/master/text/0000-ABCDE.md) - Tracking for {{RFC Description}} 
 
 Champion: {{@-champion-}}
 
