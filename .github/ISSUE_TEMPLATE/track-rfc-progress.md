@@ -51,4 +51,4 @@ Champion: {{@-champion-}}
 
 ### Steering Committee:
 
-- [ ]
+N/A
