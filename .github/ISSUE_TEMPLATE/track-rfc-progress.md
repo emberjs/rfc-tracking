@@ -2,7 +2,8 @@
 name: Track RFC Progress
 about: This issue template should be completed to track an RFC from emberjs/rfcs
 title: 'RFC #0000 - Tracking for {{RFC Description}}'
-labels: ''
+labels: needs planning:ember.js, needs planning:ember-cli, needs planning:ember-data,
+  needs planning:learning
 assignees: ''
 
 ---
